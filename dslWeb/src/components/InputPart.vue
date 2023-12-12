@@ -22,7 +22,7 @@ export default {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
-    width: 100%;
+    width: 70%;
     height: 10%;
 }
 input{
